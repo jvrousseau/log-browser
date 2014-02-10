@@ -1,0 +1,7 @@
+{ 
+    "name" : "log-browser",
+    "version" : "0.0.1",
+    "description" : "A npm package for logging with different levels for the browser",
+    "author" : "Jordan Rousseau <jv.rousseau@outlook.com>",
+    "main" : "logger"
+}
