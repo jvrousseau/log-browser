@@ -2,6 +2,14 @@
     "name" : "log-browser",
     "version" : "0.0.1",
     "description" : "A npm package for logging with different levels for the browser",
-    "author" : "Jordan Rousseau <jv.rousseau@outlook.com>",
+    "author" : {
+        "name": "Jordan Rousseau",
+        "email": "jv.rousseau@outlook.com",
+    },
+    "homepage": "",
+    "repository": {
+        "url": "git@github.com:dkorolev/ariadne.git",
+        "type": "git"
+    },
     "main" : "logger"
 }
