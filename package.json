@@ -6,9 +6,9 @@
         "name": "Jordan Rousseau",
         "email": "jv.rousseau@outlook.com",
     },
-    "homepage": "",
+    "homepage": "git@github.com:jvrousseau/log-browser.git",
     "repository": {
-        "url": "git@github.com:dkorolev/ariadne.git",
+        "url": "git@github.com:jvrousseau/log-browser.git",
         "type": "git"
     },
     "main" : "logger"
