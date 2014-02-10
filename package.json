@@ -1,15 +1,15 @@
-{ 
-    "name" : "log-browser",
-    "version" : "0.0.1",
-    "description" : "A npm package for logging with different levels for the browser",
-    "author" : {
-        "name": "Jordan Rousseau",
-        "email": "jv.rousseau@outlook.com"
-    },
-    "homepage": "https://github.com/jvrousseau/log-browser",
-    "repository": {
-        "url": "git@github.com:jvrousseau/log-browser.git",
-        "type": "git"
-    },
-    "main" : "logger"
+{
+  "name": "log-browser",
+  "version": "0.0.2",
+  "description": "A npm package for logging with different levels for the browser",
+  "author": {
+    "name": "Jordan Rousseau",
+    "email": "jv.rousseau@outlook.com"
+  },
+  "homepage": "https://github.com/jvrousseau/log-browser",
+  "repository": {
+    "url": "git@github.com:jvrousseau/log-browser.git",
+    "type": "git"
+  },
+  "main": "logger"
 }
